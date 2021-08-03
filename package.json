@@ -1,0 +1,24 @@
+{
+  "name": "number-of-the-day",
+  "version": "0.1.0",
+  "private": true,
+  "author": "kira0x1 <kira.eva@protonmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "googleapis": "^83.0.0",
+    "next": "11.0.1",
+    "react": "17.0.2",
+    "react-dom": "17.0.2"
+  },
+  "devDependencies": {
+    "eslint": "7.32.0",
+    "eslint-config-next": "11.0.1"
+  }
+}
